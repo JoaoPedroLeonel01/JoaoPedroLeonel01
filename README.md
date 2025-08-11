@@ -31,13 +31,6 @@
 
 ---
 
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoaoPedroLeonel01&theme=darkhub&margin-w=15&margin-h=15&no-frame=true" alt="Trophies"/>
-</p>
-
----
-
 ### 📊 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoPedroLeonel01&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
