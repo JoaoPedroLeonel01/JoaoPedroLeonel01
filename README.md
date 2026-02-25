@@ -1,6 +1,7 @@
 <div align="center">
-  <h1>Hi there, I'm João Pedro 👋</h1>
-  <p>💻 Software Engineering Student | 🍎 Member of the Apple Developer Academy | 🚀 Tech Enthusiast</p>
+  <h1>Hi there, I'm João Pedro</h1>
+  <h2>Mobile & Web Developer | Seeking challenging projects to scale up my expertise.</h2>
+  <p>💻 Software Engineering Student | 🍎 Member of the Apple Developer Academy</p>
 </div>
 
 ---
