@@ -14,7 +14,7 @@
 
 I'm a **Software Engineer** passionate about designing scalable systems, software architecture, and building high-quality digital products.
 
-Currently, I'm studying **Software Engineering** at the **Catholic University of Brasília** while developing mobile applications at the **Apple Developer Academy**. My experience spans **mobile**, **backend**, and **fullstack** development, with a strong interest in software engineering principles, clean architecture, and system design.
+Currently, I'm studying **Software Engineering** at the **Catholic University of Brasília** while developing mobile applications at the **Apple Developer Academy**. My experience spans mobile, backend, and full-stack software engineering, with a strong interest in software architecture, clean architecture, distributed systems, and scalable backend development.
 
 I enjoy turning ideas into real products by combining solid engineering practices with great user experiences. Whether developing native mobile applications, REST APIs, or backend services, I always prioritize maintainability, scalability, and code quality.
 
@@ -102,24 +102,29 @@ My long-term goal is to become a **Software Architect**, **Tech Lead**, and even
 <br>
 
 <p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=JoaoPedroLeonel01&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+  />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroLeonel01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=JoaoPedroLeonel01&theme=tokyonight&hide_border=true"/>
-
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=JoaoPedroLeonel01&theme=github-dark&hide_border=true"
+  />
 </p>
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroLeonel01&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroLeonel01&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+  />
 </p>
 
 </details>
 
 ---
 
-## 🗓️ Contribution Graph
+## 🏆 GitHub Trophies
 
 <p align="center">
 
