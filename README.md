@@ -11,14 +11,13 @@
 ## 👋 About Me
 
 </div>
+I'm a Software Engineer with experience in iOS, Backend, and Full Stack development.
 
-I'm a **Software Engineer** passionate about designing scalable systems, software architecture, and building high-quality digital products.
+As an **iOS Developer** at the **Apple Developer Academy**, I have collaborated on developing applications using **Swift** and **SwiftUI**, working in multidisciplinary teams to transform ideas into real products. My experience also includes backend development with the **.NET** ecosystem, cloud technologies, containerization, and relational databases.
 
-Currently, I'm studying **Software Engineering** at the **Catholic University of Brasília** while developing mobile applications at the **Apple Developer Academy**. My experience spans mobile, backend, and full-stack software engineering, with a strong interest in software architecture, clean architecture, distributed systems, and scalable backend development.
+I'm particularly interested in **Software Architecture**, **Backend Engineering**, **Distributed Systems**, **Cloud Computing**, and **Clean Architecture**. I enjoy solving complex problems and creating software that prioritizes scalability, maintainability, and long-term quality.
 
-I enjoy turning ideas into real products by combining solid engineering practices with great user experiences. Whether developing native mobile applications, REST APIs, or backend services, I always prioritize maintainability, scalability, and code quality.
-
-My long-term goal is to become a **Software Architect**, **Tech Lead**, and eventually **CTO**, helping teams build products that create real impact.
+My goal is to continuously grow as a **Software Engineer**, contributing to impactful products while deepening my knowledge of software architecture and scalable backend systems.
 
 ---
 
